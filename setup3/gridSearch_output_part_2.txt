@@ -1,0 +1,2 @@
+###############################################
+Analisando ticker:PETR4| samplingRate: 5 | errorMax: 0 | errorMin: 0 | stopLoss: 0.005 checkEngulfing:True

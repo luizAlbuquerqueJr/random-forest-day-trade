@@ -1,0 +1,7 @@
+Esse setup possui as seguintes atividades
+1. Repliquei com sucesso os resultados de Adrion
+2. Verifiquei que não existe  diferença quando colocamos indicadores externos como VIX, DOLLAR, IBOV e BTC
+3. Exibo gráfico diários sobre as operações day traders
+4. Entendi o motivo pelo qual o sistema tem melhor performance quando alfa e beta são 0.02
+    Nessa situação o máximo predito pelo sistema é geralmente menor que o mínimo predito. Isso implica em uma situação de compra a cada 15 min e venda no candle seguinte
+    Como a PETR cresceu no intervalo analisado então o sistema teve desempenho melhor
